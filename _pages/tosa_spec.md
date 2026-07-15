@@ -19,6 +19,11 @@ flow:
             # TOSA Specification
             In this section, you can find the TOSA specification available in both HTML and PDF formats.
 
+            ## v1.0.2
+            * [HTML](tosa_spec_1_0_2.html)
+            * [PDF](/assets/pdf/tosa_spec_1_0_2.pdf) - <small><code>sha256: 23e3a52359e315742c25403251dcbb35e2518e834e28881ab5dca81d66b66455</code></small>
+            * [Git - <small><code>tag: v1.0.2-rc0</code></small>](https://github.com/arm/tosa-specification/tree/v1.0.2-rc0)
+
             ## v1.0.1
             * [HTML](tosa_spec_1_0_1.html)
             * [PDF](/assets/pdf/tosa_spec_1_0_1.pdf) - <small><code>sha256: c2822e0e9a1184b67081bb923090a38c944e26ab974dd573d8d4bfa23aa39909</code></small>
